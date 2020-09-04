@@ -30,3 +30,5 @@ fields:
     schema:
       format: markdown
   label: Text
+pages:
+- dir/test-post.md
